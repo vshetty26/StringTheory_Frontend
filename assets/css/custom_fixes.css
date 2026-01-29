@@ -1,0 +1,19 @@
+
+/* Antigravity Custom Fixes */
+#navbars {
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-100%);
+}
+
+.header-logo .logo {
+    filter: brightness(0) invert(1);
+}
+
+.hero-main .hero-title {
+    color: #ffffff;
+}
+
+.hero-subtitle {
+     color: #ffffff !important;
+}
